@@ -1,0 +1,5 @@
+{
+    "welcome":"Welcome",
+    "client_component":"^This is a client component^",
+    "server_component":"This is a server component"
+}

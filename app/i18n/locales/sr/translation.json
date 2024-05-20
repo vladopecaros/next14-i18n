@@ -1,0 +1,5 @@
+{
+    "welcome":"Dobrodošli",
+    "client_component":"^Ovo je klijentska komponenta^",
+    "server_component":"Ovo je serverska komponenta"
+}
